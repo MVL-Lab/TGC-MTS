@@ -1,6 +1,6 @@
 ## Temporal Gaussian Copula For Clinical Multivariate Time Series Data Interpolation (BIBM 2024)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/MVL-Lab/TGC-MTS)
 [![Visits Badge](https://badges.pufler.dev/visits/MVL-Lab/TGC-MTS)](https://badges.pufler.dev/visits/MVL-Lab/SigRL)
