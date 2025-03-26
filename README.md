@@ -13,3 +13,22 @@ Subsequently, we employ an Expectation-Maximization (EM) algorithm to enhance th
 # Python Environment
 gcimpute
 pypots
+
+
+
+
+
+
+## Citation
+If you find this repo useful, please cite our paper.
+
+```bibtex
+@inproceedings{su2024temporal,
+  title={Temporal Gaussian Copula For Clinical Multivariate Time Series Data Imputation},
+  author={Su, Ye and Qiao, Hezhe and Wu, Di and Chen, Yuwen and Chen, Lin},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={3717--3721},
+  year={2024},
+  organization={IEEE}
+}
+```
