@@ -15,13 +15,26 @@ Subsequently, we employ an Expectation-Maximization (EM) algorithm to enhance th
 
 ![method](framework.png)
 
+## Setup
 
+```bash
+pip install -r requirements.txt
+```
 
+## Testing on PhysioNet2012
 
+```bash
+python3 TGC_PhysioNet2012.py
+```
 
+## Acknowledgement
 
+We would like to thank [gcimpute]([udellgroup/gcimpute: Missing value imputation using Gaussian copula](https://github.com/udellgroup/gcimpute)) and [pypots]([WenjieDu/PyPOTS: A Python toolkit/library for reality-centric machine/deep learning and data mining on partially-observed time series, including SOTA neural network models for scientific analysis tasks of imputation/classification/clustering/forecasting/anomaly detection/cleaning on incomplete industrial (irregularly-sampled) multivariate TS with NaN missing values](https://github.com/WenjieDu/PyPOTS)) for the codebase.
+
+We have modified some of the code in the gcimpute package, so we put it in file list.
 
 ## Citation
+
 If you find this repo useful, please cite our paper.
 
 ```bibtex
